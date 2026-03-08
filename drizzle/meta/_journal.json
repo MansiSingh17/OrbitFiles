@@ -8,6 +8,27 @@
       "when": 1760591512110,
       "tag": "0000_puzzling_warbound",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1764558766956,
+      "tag": "0001_wealthy_vulcan",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1764559077703,
+      "tag": "0002_slippery_swordsman",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1764661280713,
+      "tag": "0003_crazy_galactus",
+      "breakpoints": true
     }
   ]
 }
